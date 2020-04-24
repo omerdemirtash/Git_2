@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1b013MhixBjJYBI9JDvCkxEtv51" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,5 +56,23 @@
       <updated>1587753996726</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587754347684">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587754347684" />
+    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587754347683">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587754347683" />
+    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587754347683">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587754347683" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587754347684">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587754347684" />
   </component>
 </project>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e469f6d3-0101-415b-afb4-b0f0853dd9d5" name="Default Changelist" comment="" />
+    <list default="true" id="e469f6d3-0101-415b-afb4-b0f0853dd9d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +35,23 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager" selected="Application.gitti">
+  <component name="RunManager" selected="Application.gitgit">
     <configuration name="git_exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="git_exp" />
       <module name="Git_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gitgit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day.gitgit" />
+      <module name="Git_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -50,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gitgit" />
         <item itemvalue="Application.gitti" />
         <item itemvalue="Application.git_exp" />
       </list>
@@ -69,21 +85,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587754595481">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587755135921">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587754595481" />
-    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587754595480">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587755135921" />
+    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587755135920">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587754595480" />
-    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587754595480">
+    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587755135920" />
+    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587755135920">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587754595480" />
-    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587754595481">
+    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587755135920" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587755135920">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587754595481" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587755135920" />
+    <state x="841" y="227" width="816" height="550" key="find.popup" timestamp="1587755389021">
+      <screen x="0" y="23" width="1920" height="962" />
+    </state>
+    <state x="841" y="227" width="816" height="550" key="find.popup/0.23.1920.962@0.23.1920.962" timestamp="1587755389021" />
   </component>
 </project>

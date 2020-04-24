@@ -18,6 +18,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1b013MhixBjJYBI9JDvCkxEtv51" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +33,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.gitti">
     <configuration name="git_exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="git_exp" />
       <module name="Git_2" />
@@ -38,8 +41,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="gitti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gitti" />
+      <module name="Git_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.gitti" />
         <item itemvalue="Application.git_exp" />
       </list>
     </recent_temporary>
@@ -58,21 +69,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587754347684">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587754422638">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587754347684" />
-    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587754347683">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587754422638" />
+    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587754422637">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587754347683" />
-    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587754347683">
+    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587754422637" />
+    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587754422636">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587754347683" />
-    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587754347684">
+    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587754422636" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587754422637">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587754347684" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587754422637" />
   </component>
 </project>

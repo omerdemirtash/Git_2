@@ -35,7 +35,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager" selected="Application.gitti">
+  <component name="RunManager" selected="Application.gitgit">
     <configuration name="git_exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="git_exp" />
       <module name="Git_2" />
@@ -65,8 +65,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gitti" />
         <item itemvalue="Application.gitgit" />
+        <item itemvalue="Application.gitti" />
         <item itemvalue="Application.git_exp" />
       </list>
     </recent_temporary>
@@ -82,29 +82,41 @@
       <option name="presentableId" value="Default" />
       <updated>1587753996726</updated>
     </task>
+    <task id="LOCAL-00001" summary="-m &quot;gitti.java&quot;">
+      <created>1587757686616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587757686616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m &quot;gitti.java&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m &quot;gitti.java&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="882" y="103" key="CommitChangelistDialog2" timestamp="1587757686329">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="882" y="103" key="CommitChangelistDialog2/0.23.1920.962@0.23.1920.962" timestamp="1587757686329" />
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587755418234">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587757745434">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587755418234" />
-    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587755418233">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587757745434" />
+    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587757745433">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587755418233" />
-    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587755418232">
+    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587757745433" />
+    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587757745432">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587755418232" />
-    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587755418233">
+    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587757745432" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587757745433">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587755418233" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587757745433" />
     <state x="841" y="227" width="816" height="550" key="find.popup" timestamp="1587755389021">
       <screen x="0" y="23" width="1920" height="962" />
     </state>

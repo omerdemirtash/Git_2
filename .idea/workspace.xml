@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e469f6d3-0101-415b-afb4-b0f0853dd9d5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hulya.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hulya.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +36,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
-  <component name="RunManager" selected="Application.bir">
-    <configuration name="bir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day.bir" />
+  <component name="RunManager" selected="Application.adding">
+    <configuration name="adding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day.adding" />
       <module name="Git_2" />
       <extension name="coverage">
         <pattern>
@@ -51,9 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="git_exp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="git_exp" />
+    <configuration name="bir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day.bir" />
       <module name="Git_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -78,12 +83,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="hulya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hulya" />
+      <module name="Git_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.adding" />
+        <item itemvalue="Application.hulya" />
         <item itemvalue="Application.bir" />
         <item itemvalue="Application.gitgit" />
         <item itemvalue="Application.gitti" />
-        <item itemvalue="Application.git_exp" />
       </list>
     </recent_temporary>
   </component>
@@ -132,26 +145,38 @@
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="882" y="103" key="CommitChangelistDialog2/0.23.1920.962@0.23.1920.962" timestamp="1587760160492" />
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1587759812658">
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom" timestamp="1588102531286">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.958@0.23.1920.958" timestamp="1588102531286" />
+    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587857084537" />
+    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1588102531285">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.958@0.23.1920.958" timestamp="1588102531285" />
+    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587857084536" />
+    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1588102531285">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.958@0.23.1920.958" timestamp="1588102531285" />
+    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587857084536" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1588102531286">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.958@0.23.1920.958" timestamp="1588102531286" />
+    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587857084537" />
+    <state x="962" y="225" key="MultipleFileMergeDialog" timestamp="1587760319415">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.bottom/0.23.1920.962@0.23.1920.962" timestamp="1587759812658" />
-    <state width="1288" height="257" key="GridCell.Tab.0.center" timestamp="1587759812657">
-      <screen x="0" y="23" width="1920" height="962" />
-    </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.center/0.23.1920.962@0.23.1920.962" timestamp="1587759812657" />
-    <state width="1288" height="257" key="GridCell.Tab.0.left" timestamp="1587759812656">
-      <screen x="0" y="23" width="1920" height="962" />
-    </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.left/0.23.1920.962@0.23.1920.962" timestamp="1587759812656" />
-    <state width="1288" height="257" key="GridCell.Tab.0.right" timestamp="1587759812657">
-      <screen x="0" y="23" width="1920" height="962" />
-    </state>
-    <state width="1288" height="257" key="GridCell.Tab.0.right/0.23.1920.962@0.23.1920.962" timestamp="1587759812657" />
+    <state x="962" y="225" key="MultipleFileMergeDialog/0.23.1920.962@0.23.1920.962" timestamp="1587760319415" />
     <state x="1077" y="231" key="RollbackChangesDialog" timestamp="1587758163528">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="1077" y="231" key="RollbackChangesDialog/0.23.1920.962@0.23.1920.962" timestamp="1587758163528" />
+    <state x="928" y="334" key="com.intellij.ide.util.TipDialog" timestamp="1587930189607">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state x="928" y="334" key="com.intellij.ide.util.TipDialog/0.23.1920.958@0.23.1920.958" timestamp="1587930189607" />
     <state x="1038" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587760314547">
       <screen x="0" y="23" width="1920" height="962" />
     </state>
@@ -160,5 +185,9 @@
       <screen x="0" y="23" width="1920" height="962" />
     </state>
     <state x="841" y="227" width="816" height="550" key="find.popup/0.23.1920.962@0.23.1920.962" timestamp="1587755389021" />
+    <state x="914" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1588102507355">
+      <screen x="0" y="23" width="1920" height="958" />
+    </state>
+    <state x="914" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1920.958@0.23.1920.958" timestamp="1588102507355" />
   </component>
 </project>

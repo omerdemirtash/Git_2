@@ -5,6 +5,8 @@ public class adding {
         System.out.println("adding my class class");
         int a= 13;
         int b=200000;
+        int c=1;
+
     }
 }
 
